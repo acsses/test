@@ -1,3 +1,2 @@
 test_file
 next_line
-next_line
